@@ -1,1 +1,1 @@
-$$\text{Life}=\int_{\text{birth}}^{\text{death}}\frac{\text{happiness}}{\text{time}}\Delta\text{time}$$
+$$\text{Life}=\int_{\text{birth}}^{\text{death}}\frac{\text{LoC}}{\text{time}}\Delta\text{time}$$
